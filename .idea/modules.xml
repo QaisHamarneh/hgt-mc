@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HGT-MC.iml" filepath="$PROJECT_DIR$/.idea/modules/HGT-MC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HGT-MC/HGT-MC.HGT-MC-build.iml" filepath="$PROJECT_DIR$/.idea/modules/HGT-MC/HGT-MC.HGT-MC-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HGT-MC/HGT-MC.main.iml" filepath="$PROJECT_DIR$/.idea/modules/HGT-MC/HGT-MC.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HGT-MC/HGT-MC.test.iml" filepath="$PROJECT_DIR$/.idea/modules/HGT-MC/HGT-MC.test.iml" />
+    </modules>
+  </component>
+</project>
